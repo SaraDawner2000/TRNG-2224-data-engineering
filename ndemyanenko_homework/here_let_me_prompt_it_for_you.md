@@ -40,7 +40,7 @@ Ingest the raw data into Databricks and store it in a structured format (e.g., D
 - **(5 points)** A notebook demonstrating the ingestion process with clear documentation.
 
 #### **Stretch Goals**
-- **(5 points)** Automate the ingestion process using Databricks workflows or a Python script.
+- **(5 points)** Simulate an automated ingestion process by creating a Databricks Workflow that schedules and runs your ingestion notebook at regular intervals (e.g., daily).
 - **(5 points)** Implement schema validation to ensure data integrity during ingestion.
 
 ---
